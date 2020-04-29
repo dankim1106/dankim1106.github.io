@@ -1,4 +1,4 @@
-<style> "UTF-8";
+@charset "UTF-8";
 /* Body */
 body {
 	font-family: source-sans-pro;
@@ -345,7 +345,7 @@ nav ul li {
 	text-align: center;
 }
 }
-</style>
+
 /* Small Tablets */
 @media (min-width: 321px)and (max-width: 767px) {
 .logo {
